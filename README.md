@@ -13,6 +13,12 @@
 
 </div>
 
+<div align="center">
+
+![COMPLETE](https://img.shields.io/badge/COMPLETE-7ED321?style=for-the-badge&logo=cachet&logoColor=white)
+
+</div>
+
 ## Descriptions
 
 This is a project to improve my skills with React, TailwindCSS and DaisyUI. Consuming API to GitHub Profiles. See the [DEMO](https://github-finder-react-zeta.vercel.app/).
