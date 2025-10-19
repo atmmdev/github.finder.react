@@ -30,7 +30,7 @@ This is a project to improve my skills with React, TailwindCSS and DaisyUI. Cons
 - Search Page
   ![New Layout](./docs/layout/search-page.png)
 - User Page
-  ![New Layout](./docs/layout/user-page.png)
+  ![New Layout](./docs/layout/userpage.png)
 
 ## Technologies <!-- References for Create budgets :: https://shields.io/category/build -->
 
